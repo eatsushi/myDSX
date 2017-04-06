@@ -1,2 +1,2 @@
 # myDSX
-for my DSX
+このmyDSXスペースはDSX (Data Science Experience)のノートブック、スクリプトを管理するスペースです。
